@@ -8,7 +8,7 @@ Use it at your own risk.
 
 Clone it into ../mmalessa/saga ...or wherever you want.
 ```shell script
-git clone...
+git clone https://github.com/mmalessa/saga.git
 ```
 
 composer.json - add:
