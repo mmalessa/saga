@@ -4,23 +4,6 @@ Development vertion.
 Use it at your own risk.
 
 # Install
-**Temporary solution - until the code has stabilized.**
-
-Clone it into ../mmalessa/saga ...or wherever you want.
-```shell script
-git clone https://github.com/mmalessa/saga.git
-```
-
-composer.json - add:
-```json
-"repositories": [
-        {
-            "type": "path",
-            "url": "../mmalessa/saga"
-        }
-    ]
-```
-
 ```shell script
 composer req mmalessa/saga
 ```
